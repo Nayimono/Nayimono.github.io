@@ -1,0 +1,13 @@
+date,organization,country,sector,method,records,sensitivity,days_to_discovery,source
+2025-07-12,BankOne (KR),KR,Financial,Credential stuffing,125000,2,2,https://example.org/bankone
+2025-04-18,SK Telecom,KR,Telecom,Malware/Server intrusion,0,3,2,https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mPid=2&mId=4&bbsSeqNo=42&nttSeqNo=1139
+2025-02-03,EduCity Univ.,KR,Education,Posting/Mis-send (human error),2400,2,0,https://example.org/edu-missend
+2024-11-05,LocknLock,KR,Retail,Server hacking,0,2,7,https://www.fis.kr/ko/major_biz/cyber_safety_oper/attack_info/notice_issue?articleSeq=4219
+2024-10-21,Seoul Shop,KR,Retail,SQL injection,83000,2,18,https://example.org/seoulshop-sql
+2024-09-09,Metro City,KR,Public,System error (API/Code deploy),5400,2,0,https://example.org/metro-api
+2024-07-10,City Univ. (KR),KR,Education,Posting/Mis-send (human error),1200,2,1,https://example.org/city-uni
+2024-06-02,HealthCare KR,KR,Healthcare,Server hacking,150000,3,12,https://example.org/health-hack
+2024-05-17,TravelGo,KR,Travel,Credential stuffing,22000,2,3,https://example.org/travelgo-cred
+2024-03-20,SME Webshop,KR,Retail,SQL injection,88000,2,30,https://example.org/sme-sql
+2024-02-14,Local Gov.,KR,Public,System error (API/Code deploy),5400,2,0,https://example.org/localgov-api
+2024-01-08,Startup SaaS,KR,Technology,Server hacking,45000,2,9,https://example.org/saas-hack
